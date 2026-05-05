@@ -1,0 +1,5 @@
+/node_modules
+.vscode
+.vvscode/
+.DS_Store
+.vs_code
